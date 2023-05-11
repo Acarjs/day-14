@@ -1,0 +1,23 @@
+.light {
+  height: 150px;
+  width: 150px;
+}
+
+.stop-on {
+  background-image: url('../lights/stop-on.svg');
+  background-size: contain;
+}
+
+.walk-off {
+  background-image: url('../lights/walk-off.svg');
+  background-size: contain;
+}
+
+.stop-off {
+  background-image: url('../lights/stop-off.svg');
+  background-size: contain;
+}
+
+.walk-on {
+  background-image: url('../lights/walk-on.svg');
+}
